@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @193330
+- 👋 Hi, I’m @193330 MJ-CEO
 - 👀 I’m interested in C++ Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on this topic
